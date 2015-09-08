@@ -1,0 +1,13 @@
+flowjupy:
+  build: ./flowjupy
+  ports: 
+  - "8888:8888"
+flowstudio:
+  build: ./flowstudio
+  ports:
+  - "8787:8787"
+flowshiny:
+  build: ./flowshiny
+  ports:
+  - "3838:3838"
+

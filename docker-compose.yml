@@ -1,0 +1,13 @@
+flowjupy:
+  image: federicomarini/flowjupy
+  ports: 
+  - "8888:8888"
+flowstudio:
+  image: federicomarini/flowstudio
+  ports:
+  - "8787:8787"
+flowshiny:
+  image: federicomarini/flowshiny
+  ports:
+  - "3838:3838"
+

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This [Docker](http://www.docker.com/) container provides the `docker-compose.yml` configuration file for running the [flowcatchR](http://bioconductor.org/packages/flowcatchR)-based containers simultaneously on the same machine using [Docker](http://www.docker.com/) containers and [Docker Compose](https://github.com/docker/compose).
+This repository provides the `docker-compose.yml` configuration file for running the [flowcatchR](http://bioconductor.org/packages/flowcatchR)-based containers simultaneously on the same machine using [Docker](http://www.docker.com/) containers and [Docker Compose](https://github.com/docker/compose).
 
 The components are: 
 
